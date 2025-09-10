@@ -1,0 +1,12 @@
+```txt
+boto3
+pandas
+awscrt
+awsiot
+torch
+torchvision
+numpy
+opencv-python
+mtcnn
+facenet-pytorch
+scikit-learn
