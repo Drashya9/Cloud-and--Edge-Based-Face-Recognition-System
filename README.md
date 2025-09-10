@@ -14,8 +14,8 @@ This project implements **Face Detection** and **Face Recognition** pipelines us
 - Secure credential handling.
 
 ## Project Structure
-face-detection/ → fd_component.py
-face-recognition/ → fr_lambda.py
+-face-detection/ → fd_component.py
+-face-recognition/ → fr_lambda.py
 
 
 ##  Setup
