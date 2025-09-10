@@ -13,6 +13,11 @@ This project implements **Face Detection** and **Face Recognition** pipelines us
 - AWS integration: S3, SQS, Lambda, Greengrass.
 - Secure credential handling.
 
+## 🛠️ Tech Stack
+- **Python** (Face Detection & Recognition code)
+- **AWS** (S3, Lambda, Greengrass, SQS, IAM)
+- **OpenCV**, **MTCNN**, **FaceNet**
+
 ## Project Structure
 - **face-detection/**
   - `fd_component.py`
